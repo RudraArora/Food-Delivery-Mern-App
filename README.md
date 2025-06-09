@@ -22,7 +22,7 @@ A full-stack food delivery application built using the **MERN stack** (MongoDB, 
 |---------|--------|----------|--------|
 | React.js | Node.js | MongoDB | Express.js |
 | Axios   | JWT Auth | Mongoose | Dotenv |
-| Tailwind / CSS |  |  | CORS, Bcrypt |
+| CSS |  |  |  |
 
 ---
 
