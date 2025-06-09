@@ -20,8 +20,7 @@ A full-stack food ordering application built with the **MERN stack**, where user
 | Frontend | Backend | Database | Other |
 |---------|--------|----------|--------|
 | React.js | Node.js | MongoDB | Express.js |
-| Axios   | JWT Auth | Mongoose | Dotenv |
-| CSS |  |  |  |
+| CSS   | JWT Auth | Mongoose | Dotenv |
 
 ---
 
