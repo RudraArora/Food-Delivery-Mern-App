@@ -56,5 +56,6 @@ Start frontend (React)
  - Add .env file in .gitignore.
 
 ## 👥 Contributors
- - [Rudra Arora](https://github.com/RudraArora)
- - [Radhika Gupta](https://github.com/GuptaRadhikaa)  
+ - [Radhika Gupta](https://github.com/GuptaRadhikaa)- Frontend (React.js, UI/UX, Redux)
+ - [Rudra Arora](https://github.com/RudraArora)- Backend (Node.js, Express, MongoDB)
+ 
