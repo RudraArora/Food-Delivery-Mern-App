@@ -31,15 +31,15 @@ A full-stack food ordering application built with the **MERN stack**, where user
 git clone https://github.com/RudraArora/Food-Delivery-Mern-App.git
 cd Food-Delivery-Mern-App
 
-##2. Install server dependencies
+### 2. Install server dependencies
  - cd server
  - npm install
 
-##3. Install client dependencies
+### 3. Install client dependencies
  - cd ../client
  - npm install
 
-🌐 Running the App Locally
+## 🌐 Running the App Locally
  - Start backend (Node.js + Express)
  - cd server
  - npm start
@@ -48,7 +48,7 @@ Start frontend (React)
  - cd ../client
  - npm start
 
-🔑 Environment Variables
+## 🔑 Environment Variables
  - Create a .env file in the server directory with the following:
  - PORT=5000
  - MONGO_URI=your_mongo_connection_string
