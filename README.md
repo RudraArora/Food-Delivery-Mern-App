@@ -54,3 +54,7 @@ Start frontend (React)
  - MONGO_URI=your_mongo_connection_string
  - JWT_SECRET=your_jwt_secret
  - Add .env file in .gitignore.
+
+## 👥 Contributors
+ - [Rudra Arora](https://github.com/RudraArora)
+ - [Radhika Gupta](https://github.com/GuptaRadhikaa)  
