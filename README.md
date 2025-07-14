@@ -40,7 +40,7 @@ cd Food-Delivery-Mern-App
  - npm install
 
 ## 🌐 Running the App Locally
- - Start backend (Node.js + Express)
+Start backend (Node.js + Express)
  - cd server
  - npm start
 
